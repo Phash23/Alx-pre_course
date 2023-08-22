@@ -1,1 +1,1 @@
-My first readme
+is good to do hard thing
